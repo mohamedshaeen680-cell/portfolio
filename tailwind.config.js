@@ -1,0 +1,1 @@
+module.exports={darkMode:"class",content:["./app/**/*.tsx","./components/**/*.tsx"],theme:{extend:{fontFamily:{display:["Segoe UI","Trebuchet MS","system-ui","sans-serif"],sans:["Segoe UI","system-ui","sans-serif"]},colors:{ink:"#0a1216",teal:"#2ec4a6",amber:"#f5b94a"}}}}
